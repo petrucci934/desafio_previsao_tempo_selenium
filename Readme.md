@@ -13,7 +13,7 @@ Este projeto coleta informações climáticas da cidade de Igaratá, SP, utiliza
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/petrucci934/desafio_selenium.git
+   git clone https://github.com/petrucci934/desafio_previsao_tempo_selenium.git
    cd desafio_selenium
    ```
 
